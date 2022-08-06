@@ -1,0 +1,39 @@
+<html>
+
+    <head>
+
+        <body>
+
+            <form>
+                <h1>DATOS PERSONALES</h1>
+                <h2>Nombre: </h2>
+
+                <label for="ID">Documento de Identificacion: </label>
+                <input type="number">
+                <br>
+                <br>
+                <label for="NOMBRE">Nombre: </label>
+                <input type="text">
+                <br>
+                <br>
+                <label for="DIRECCION">Direccion: </label>
+                <input type="text">
+                <br>
+                <br>
+                <label for="PAIS">Pais: </label>
+                <input type="text">
+                <br>
+                <br>
+                <label for="MAIL">E-Mail: </label>
+                <input type="text">
+                <br>
+                <br>
+                <label for="OBS">Observaciones: </label>
+                <input type="text">
+            </form>
+
+        </body>
+
+    </head>
+
+</html>
